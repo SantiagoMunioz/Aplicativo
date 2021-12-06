@@ -1,0 +1,116 @@
+.paginaEditUsu{
+    background: #2C3E50;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 10%;
+    width: 76%;
+    padding: 2%;
+}
+
+.paginaDataUsu{
+    background: #2C3E50 ;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 3%;
+    width: 80%;
+    padding: 6%;
+    padding-top: 3%;
+}
+
+.cabeEditPreg{
+    background:  -webkit-linear-gradient(to right, #7f8c8d, #2C3E50);
+    background:  linear-gradient(to left, #ffff, black);
+    padding-bottom: 0.5%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.linkEdit{
+    margin-left: 2%;
+}
+
+.nombUsu{
+    text-align: center;
+    color: black;
+    width: 28%;
+    padding: 0.2%;
+    font-size: 100%;
+    border: black 0.5px solid;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin: auto;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.emailUsu{
+    text-align: center;
+    color: black;
+    width: 28%;
+    padding: 0.2%;
+    font-size: 100%;
+    border: black 0.5px solid;
+    margin: auto;
+}
+
+.passUsu{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    text-align: center;
+    color: black;
+    width: 28%;
+    padding: 0.2%;
+    font-size: 100%;
+    border: black 0.5px solid;
+    margin: auto;
+}
+
+.idUsu{
+    background-color: red;
+    text-align: center;
+    color: white;
+    width: 5%;
+}
+
+.id{
+    background-color: red;
+    border-top-left-radius: 20px;
+    text-align: center;
+    color: white;
+    width: 5%;
+}
+
+.campUsu{
+    background-color: #7f8c8d;
+    box-sizing: border-box;
+    text-align: center;
+    width: 45%;
+    padding: 0.2%;
+    margin: auto;
+    border-left: black 0.5px solid;
+}
+
+.titCampUsu{
+    background-color: white;
+    box-sizing: border-box;
+    text-align: center;
+    width: 30%;
+    padding: 7px;
+    margin: auto;
+    border-bottom: black 0.5px solid;
+}
+
+.titLastUsu{
+    background-color: white;
+    border-top-right-radius: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    width: 30%;
+    padding: 7px;
+    margin: auto;
+    border-bottom: black 0.5px solid;
+}
+
+label{
+    color: #ffff;
+}

@@ -1,0 +1,149 @@
+.pagEditPreg{
+    background: #2C3E50;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 10%;
+    width: 60%;
+    padding-bottom : 2%;
+}
+
+.pagDataPreg{
+    background: #2C3E50 ;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 3%;
+    width: 80%;
+    padding: 6%;
+    padding-top: 3%;
+}
+
+.cabeEditPreg{
+    background: -webkit-linear-gradient(to left, #ffff, black);
+    background: linear-gradient(to left, #ffff, black);
+    padding-bottom: 0.5%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    color: #ffff;
+}
+
+.titEditPreg{
+    margin-left: 1%;
+}
+
+.linkEditPreg{
+    margin-left: 2%;
+}
+
+.divSelPreg{
+    border: black 4px spolid;
+    margin-left: 24%;
+    margin-top: 2%;
+    width: 50%;
+}
+
+.nombPreg{
+    text-align: center;
+    color: black;
+    width: 100%;
+    padding: 0.2%;
+    font-size: 100%;
+    border: black 0.5px solid;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.selectTipoPreg{
+    text-align: center;
+    color: black;
+    width: 70%;
+    padding: 0.2%;
+    font-size: 100%;
+    border: black 0.5px solid;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin-top: 10px;
+}
+
+.numbSecPreg{
+    text-align: center;
+    color: black;
+    width: 30%;
+    padding: 0.13%;
+    font-size: 100%;
+    border: black 0.5px solid;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-top: 10px;
+}
+
+.idPreg{
+    background-color: red;
+    text-align: center;
+    color: white;
+    width: 5%;
+}
+
+.id{
+    background-color: red;
+    border-top-left-radius: 20px;
+    text-align: center;
+    color: white;
+    width: 5%;
+}
+
+.campPreg{
+    background-color: #7f8c8d;
+    box-sizing: border-box;
+    text-align: center;
+    width: 45%;
+    padding: 0.2%;
+    margin: auto;
+    border-left: black 0.5px solid;
+}
+
+.campSecPreg{
+    background-color: #7f8c8d;
+    text-align: center;
+    width: 10%;
+    padding: 0.2%;
+    margin: auto;
+    border-left: black 0.5px solid;
+}
+
+.titCampPreg{
+    background-color: white;
+    box-sizing: border-box;
+    text-align: center;
+    width: 30%;
+    padding: 7px;
+    margin: auto;
+    border-bottom: black 0.5px solid;
+}
+
+.titSecPreg{
+    background-color: #ffff;
+    text-align: center;
+    width: 10%;
+    padding: 0.2%;
+    margin: auto;
+    border-bottom: black 0.5px solid;
+}
+
+.titLastPreg{
+    background-color: white;
+    border-top-right-radius: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    width: 30%;
+    padding: 7px;
+    margin: auto;
+    border-bottom: black 0.5px solid;
+}
+
+label{
+    color: #ffff;
+}
