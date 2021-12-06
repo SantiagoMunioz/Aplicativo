@@ -1,0 +1,8 @@
+POST http://localhost:5000/preguntas
+Content-Type: application/json
+
+{
+    "pregunta": "Preguna de prueba",
+    "seccion_id": 2,
+    "tipoPregunta": "Abierta"
+}

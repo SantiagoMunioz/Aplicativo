@@ -1,0 +1,8 @@
+GET http://localhost:5000/respuestas/<id>
+Content-Type: application/json
+
+{
+    "respuesta": "si",
+    "usuario_id": 2,
+    "pregunta_id": 1
+}

@@ -1,0 +1,8 @@
+PUT http://localhost:5000/preguntas/2
+Content-Type: application/json
+
+{
+    "pregunta": "Pregunta de prueba",
+    "seccion_id": 2,
+    "tipoPregunta": "Abierta"
+}

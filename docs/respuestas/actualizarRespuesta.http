@@ -1,0 +1,8 @@
+PUT http://localhost:5000/respuestas/2
+Content-Type: application/json
+
+{
+    "respuesta": "si",
+    "usuario_id": 2,
+    "pregunta_id": 1
+}

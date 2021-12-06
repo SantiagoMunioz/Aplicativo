@@ -1,0 +1,8 @@
+POST http://localhost:5000/encuestas
+Content-Type: application/json
+
+{
+    "nombre": "Prueba encuesta",
+    "usuario_id": 2,
+    "descripcion": "Esta es una encuesta de prueba"
+}

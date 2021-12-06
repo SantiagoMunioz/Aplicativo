@@ -1,0 +1,7 @@
+POST http://localhost:5000/secciones
+Content-Type: application/json
+
+{
+    "nombre": "Seccion de prueba",
+    "encuesta_id": 2
+}
